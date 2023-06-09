@@ -1,0 +1,15 @@
+{
+  "name": "sports-app",
+  "version": "1.0.0",
+  "description": "week 2 sports app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Danielle Taplin",
+  "license": "(MIT)",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "pino": "^6.13.4"
+  }
+}
